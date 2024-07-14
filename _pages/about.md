@@ -18,7 +18,7 @@ Research Interests
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none; padding-right: 10px;">
-      <img src="../images/research.png" alt="Research Image" style="width:750px; height:200px;">
+      <img src="../images/research.png" alt="Research Image" style="width:800px; height:200px;">
     </td>
     <td style="border: none; vertical-align: top;">
       <p style="font-family: 'Times New Roman', Times, serif;">
@@ -43,9 +43,6 @@ Research Interests
     </td>
   </tr>
 </table>
-
-
-
 
 Awards
 ======
