@@ -90,6 +90,26 @@ Publication
   </tr>
 </table>
 
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; padding-right: 10px;">
+      <img src="../images/frontier.png" alt="Image" style="width:320px; height:150px;">
+    </td>
+    <td style="border: none; vertical-align: top;">
+      <p style="font-family: 'Times New Roman', Times, serif; font-weight: bold; color: purple;">
+        <a href="https://www.frontiersin.org/journals/chemistry/articles/10.3389/fchem.2019.00522/full" style="color: purple; text-decoration: none;">
+          Review on polymer-based composite electrolytes for lithium batteries
+        </a>
+      </p>
+      <p style="font-family: 'Times New Roman', Times, serif; font-weight: bold;">
+        ESI highly cited paper（2019-2023）
+      </p>
+      <p style="font-family: 'Times New Roman', Times, serif;">
+        Penghui Yao, Haobin Yu, Zhiyu Ding, Yanchen Liu, Juan Lu, Marino Lavorgna, Junwei Wu, Xingjun Liu
+      </p>
+    </td>
+  </tr>
+</table>
 
 Create content & metadata
 ------
