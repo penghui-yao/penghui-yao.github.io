@@ -114,7 +114,7 @@ Publication
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none; padding-right: 10px;">
-      <img src="../images/cej.png" alt="Image" style="width:500px; height:200px;">
+      <img src="../images/cej.png" alt="Image" style="width:700px; height:200px;">
     </td>
     <td style="border: none; vertical-align: top;">
       <p style="font-family: 'Times New Roman', Times, serif; font-weight: bold; color: purple;">
@@ -132,15 +132,14 @@ Publication
 
 Talk
 ------
-## Presentations
 
-<table style="border-collapse: collapse; border: none;">
+<table style="border-collapse: collapse; border: none; width: 100%;">
   <tr style="border: none;">
     <td style="border: none; vertical-align: top;">
-      <p style="font-family: 'Times New Roman', Times, serif; font-weight: bold;">
+      <p style="font-family: 'Times New Roman', Times, serif; font-weight: bold; font-size: 18px;">
         The Third Workshop on Catalytic Reactions with Ion Transfer through Interfaces (ITICAT2024)
       </p>
-      <p style="font-family: 'Times New Roman', Times, serif;">
+      <p style="font-family: 'Times New Roman', Times, serif; font-size: 16px;">
         <em>July 10 - 12, 2024 | Finland</em><br>
         <strong>Oral Presentation:</strong><br>
         <em>Title:</em> <em>"Design of a Perovskite Oxide Cathode for a Proton-Conducting Solid Oxide Fuel Cell"</em>
@@ -149,13 +148,13 @@ Talk
   </tr>
 </table>
 
-<table style="border-collapse: collapse; border: none;">
+<table style="border-collapse: collapse; border: none; width: 100%;">
   <tr style="border: none;">
     <td style="border: none; vertical-align: top;">
-      <p style="font-family: 'Times New Roman', Times, serif; font-weight: bold;">
+      <p style="font-family: 'Times New Roman', Times, serif; font-weight: bold; font-size: 18px;">
         EuropaCat
       </p>
-      <p style="font-family: 'Times New Roman', Times, serif;">
+      <p style="font-family: 'Times New Roman', Times, serif; font-size: 16px;">
         <em>August 27 – September 1, 2023 | Prague</em><br>
         <strong>Oral Presentation:</strong><br>
         <em>Title:</em> <em>"Perovskite Oxide Cathode for Lithium Oxygen (Li-O2) Battery"</em>
@@ -164,13 +163,13 @@ Talk
   </tr>
 </table>
 
-<table style="border-collapse: collapse; border: none;">
+<table style="border-collapse: collapse; border: none; width: 100%;">
   <tr style="border: none;">
     <td style="border: none; vertical-align: top;">
-      <p style="font-family: 'Times New Roman', Times, serif; font-weight: bold;">
+      <p style="font-family: 'Times New Roman', Times, serif; font-weight: bold; font-size: 18px;">
         China Energy Research Association Fuel Cell Seminar
       </p>
-      <p style="font-family: 'Times New Roman', Times, serif;">
+      <p style="font-family: 'Times New Roman', Times, serif; font-size: 16px;">
         <em>May 2023 | China</em><br>
         <strong>Oral Presentation:</strong><br>
         <em>Title:</em> <em>"Design of a Perovskite Oxide Cathode for a Proton-Conducting Solid Oxide Fuel Cell"</em>
@@ -178,6 +177,7 @@ Talk
     </td>
   </tr>
 </table>
+
 
 
 **Markdown generator**
