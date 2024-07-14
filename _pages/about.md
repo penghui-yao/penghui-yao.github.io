@@ -15,7 +15,7 @@ I have had the privilege of collaborating on research projects with various este
 
 Research Interests
 ======
-- Solid oxide fuel cell
+- Solid oxide fuel cell 
 - DFT simulation
 - Lithium battery
 
