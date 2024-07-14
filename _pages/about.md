@@ -30,16 +30,16 @@ Awards
 
 Publication
 ------
-<table>
-  <tr>
-    <td>
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; padding-right: 10px;">
       <img src="jps.png" alt="Image" style="width:200px;">
     </td>
-    <td style="vertical-align: top;">
+    <td style="border: none; vertical-align: top;">
       <p style="font-family: 'Times New Roman', Times, serif; font-weight: bold; color: purple;">
         A dual modification strategy of highly active catalytic cathode for proton-conducting solid oxide fuel cell with Ni-doped PrBaFe1.9Mo0.1O6-δ
       </p>
-      <p style="font-family: 'Times New Roman', Times, serif; color: purple;">
+      <p style="font-family: 'Times New Roman', Times, serif;">
         Penghui Yao, Jian Zhang, Qianyuan Qiu, Yicheng Zhao, Fangyong Yu, Yongdan Li
       </p>
     </td>
