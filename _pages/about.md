@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at Aalto University, working under the mentorship of Prof. Yongdan Li. I hold a master's degree from Harbin Institute of Technology. My research interests focus on Solid Oxide Fuel Cells, Density Functional Theory (DFT) simulations, and Lithium-ion Batteries.
+I am a Ph.D. candidate at Aalto University, working under the mentorship of Prof. Yongdan Li. I got a master's degree from Harbin Institute of Technology. My research interests focus on Solid Oxide Fuel Cells, Density Functional Theory (DFT) simulations, and Lithium-ion Batteries.
 
 A data-driven personal website
 ======
