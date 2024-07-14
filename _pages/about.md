@@ -15,9 +15,35 @@ I have had the privilege of collaborating on research projects with various este
 
 Research Interests
 ======
-- Solid oxide fuel cell
-- DFT simulation
-- Lithium battery
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; padding-right: 10px;">
+      <img src="../images/research.png" alt="Research Image" style="width:600px; height:150px;">
+    </td>
+    <td style="border: none; vertical-align: top;">
+      <p style="font-family: 'Times New Roman', Times, serif;">
+        My research interests focus on Solid Oxide Fuel Cells, Density Functional Theory (DFT) simulations, and Lithium-ion Batteries.
+      </p>
+      <p style="font-family: 'Times New Roman', Times, serif;">
+        <strong>1. Solid Oxide Fuel Cell Thin Film Electrolyte Preparation and Perovskite Cathode Material Research:</strong>
+        My research focuses on the fabrication of thin film electrolytes for solid oxide fuel cells and the investigation of perovskite-based cathode materials to enhance their performance and stability.
+      </p>
+      <p style="font-family: 'Times New Roman', Times, serif;">
+        <strong>2. Lithium-Ion Fuel Cell Solid Electrolyte Research:</strong>
+        I explore the development and optimization of solid electrolytes for lithium-ion fuel cells, aiming to improve their ionic conductivity and overall efficiency.
+      </p>
+      <p style="font-family: 'Times New Roman', Times, serif;">
+        <strong>3. High-Temperature Lithium-Air Battery Research:</strong>
+        My work involves studying high-temperature lithium-air batteries, focusing on their electrochemical properties and potential applications for high-energy storage solutions.
+      </p>
+      <p style="font-family: 'Times New Roman', Times, serif;">
+        <strong>4. DFT Simulation Mechanism Research for Lithium-Ion and Fuel Cells:</strong>
+        I employ Density Functional Theory (DFT) simulations to investigate the mechanisms and material interactions within lithium-ion and fuel cells, providing insights for better design and performance enhancement.
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 
 Awards
