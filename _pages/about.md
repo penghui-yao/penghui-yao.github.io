@@ -33,7 +33,7 @@ Publication
 <table>
   <tr>
     <td>
-      <img src="JPS.png" alt="Image" style="width:200px;">
+      <img src="jps.png" alt="Image" style="width:200px;">
     </td>
     <td style="vertical-align: top;">
       <p style="font-family: 'Times New Roman', Times, serif; font-weight: bold; color: purple;">
