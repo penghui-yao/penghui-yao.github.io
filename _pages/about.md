@@ -114,7 +114,7 @@ Publication
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none; padding-right: 10px;">
-      <img src="../images/cej.png" alt="Image" style="width:400px; height:200px;">
+      <img src="../images/cej.png" alt="Image" style="width:500px; height:200px;">
     </td>
     <td style="border: none; vertical-align: top;">
       <p style="font-family: 'Times New Roman', Times, serif; font-weight: bold; color: purple;">
