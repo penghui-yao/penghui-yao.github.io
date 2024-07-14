@@ -24,7 +24,23 @@ author:
   avatar           : "penghui1.png"
   name             : "Penghui Yao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "<p style="text-align: center; font-family: 'Times New Roman', Times, serif;">
+Ph.D. Candidate
+</p>
+
+<p style="text-align: center; font-family: 'Times New Roman', Times, serif; color: purple;">
+School of Chemical Engineering,<br>
+Aalto University
+</p>
+
+<p style="text-align: center; font-family: 'Times New Roman', Times, serif;">
+E409b, Kemistvägen 1, 02150 Espoo, Finland
+</p>
+
+<p style="text-align: center; font-family: 'Times New Roman', Times, serif;">
+penghui.yao@aalto.fi
+</p>
+"
   location         : "Finland"
   employer         : "Aalto University"
   uri              : # URL
