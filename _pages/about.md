@@ -37,12 +37,12 @@ Publication
     </td>
     <td style="border: none; vertical-align: top;">
       <p style="font-family: 'Times New Roman', Times, serif; font-weight: bold; color: purple;">
-        <a href="https://www.sciencedirect.com/science/article/pii/S0378775324005433" style="color: purple; text-decoration: none;">
-          A dual modification strategy of highly active catalytic cathode for proton-conducting solid oxide fuel cell with Ni-doped PrBaFe1.9Mo0.1O6-δ
+        <a href="https://www.sciencedirect.com/science/article/pii/S0272884223034478" style="color: purple; text-decoration: none;">
+          Design of a perovskite oxide cathode for a protonic ceramic fuel cell
         </a>
       </p>
       <p style="font-family: 'Times New Roman', Times, serif;">
-        Penghui Yao, Jian Zhang, Qianyuan Qiu, Yicheng Zhao, Fangyong Yu, Yongdan Li
+        Penghui Yao, Jian Zhang, Qianyuan Qiu, Gen Li, Yicheng Zhao, Fangyong Yu, Yongdan Li
       </p>
     </td>
   </tr>
