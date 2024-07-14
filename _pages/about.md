@@ -149,7 +149,6 @@ Talk
     </td>
   </tr>
 </table>
-
 <table style="border-collapse: collapse; border: none; width: 100%;">
   <tr style="border: none;">
     <td style="border: none; vertical-align: top;">
@@ -164,7 +163,6 @@ Talk
     </td>
   </tr>
 </table>
-
 <table style="border-collapse: collapse; border: none; width: 100%;">
   <tr style="border: none;">
     <td style="border: none; vertical-align: top;">
