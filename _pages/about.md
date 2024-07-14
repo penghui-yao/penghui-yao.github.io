@@ -27,9 +27,23 @@ Awards
 - [July. 2020] Outstanding Graduate Award（Top 5%）
 - [2014-2016] the National Inspirational Scholarship
 
-Site-wide configuration
+Publication
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+<table>
+  <tr>
+    <td>
+      <img src="jps.png" alt="Image" style="width:200px;">
+    </td>
+    <td style="vertical-align: top;">
+      <p style="font-family: 'Times New Roman', Times, serif; font-weight: bold; color: purple;">
+        A dual modification strategy of highly active catalytic cathode for proton-conducting solid oxide fuel cell with Ni-doped PrBaFe1.9Mo0.1O6-δ
+      </p>
+      <p style="font-family: 'Times New Roman', Times, serif; color: purple;">
+        Penghui Yao, Jian Zhang, Qianyuan Qiu, Yicheng Zhao, Fangyong Yu, Yongdan Li
+      </p>
+    </td>
+  </tr>
+</table>
 
 Create content & metadata
 ------
