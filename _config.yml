@@ -10,7 +10,7 @@
 locale                   : "Finland"
 title                    : "Penghui Yao"
 title_separator          : "-"
-name                     : &name "Penghui Yao"
+name                     : &name "Homepage"
 description              : &description "personal description"
 url                      : https://penghui-yao.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
