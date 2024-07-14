@@ -111,6 +111,24 @@ Publication
   </tr>
 </table>
 
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; padding-right: 10px;">
+      <img src="../images/cej.png" alt="Image" style="width:400px; height:200px;">
+    </td>
+    <td style="border: none; vertical-align: top;">
+      <p style="font-family: 'Times New Roman', Times, serif; font-weight: bold; color: purple;">
+        <a href="https://www.sciencedirect.com/science/article/pii/S1385894719303870" style="color: purple; text-decoration: none;">
+          Hybridizing poly(vinylidene fluoride-co-hexafluoropropylene) with Li6.5La3Zr1.5Ta0.5O12 as a lithium-ion electrolyte for solid state lithium metal batteries
+        </a>
+      </p>
+      <p style="font-family: 'Times New Roman', Times, serif;">
+        Juan Lu, Yanchen Liu, Penghui Yao <strong>(Co-first author)</strong>, Zhiyu Ding, Qiming Tang, Junwei Wu, Ziran Ye, Kevin Huang, Xingjun Liu
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 Create content & metadata
 ------
