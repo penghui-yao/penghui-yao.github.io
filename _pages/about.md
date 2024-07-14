@@ -33,7 +33,7 @@ Publication
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none; padding-right: 10px;">
-      <img src="../images/JPS.png" alt="Image" style="width:300px; height:300px;">
+      <img src="../images/JPS.png" alt="Image" style="width:600px; height:150px;">
     </td>
     <td style="border: none; vertical-align: top;">
       <p style="font-family: 'Times New Roman', Times, serif; font-weight: bold; color: purple;">
@@ -51,7 +51,7 @@ Publication
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none; padding-right: 10px;">
-      <img src="../images/ceramic.png" alt="Image" style="width:300px; height:300px;">
+      <img src="../images/ceramic.png" alt="Image" style="width:600px; height:150px;">
     </td>
     <td style="border: none; vertical-align: top;">
       <p style="font-family: 'Times New Roman', Times, serif; font-weight: bold; color: purple;">
@@ -65,6 +65,7 @@ Publication
     </td>
   </tr>
 </table>
+
 
 Create content & metadata
 ------
