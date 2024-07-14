@@ -93,7 +93,7 @@ Publication
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none; padding-right: 10px;">
-      <img src="../images/frontier.png" alt="Image" style="width:320px; height:150px;">
+      <img src="../images/frontier.png" alt="Image" style="width:400px; height:200px;">
     </td>
     <td style="border: none; vertical-align: top;">
       <p style="font-family: 'Times New Roman', Times, serif; font-weight: bold; color: purple;">
@@ -110,6 +110,7 @@ Publication
     </td>
   </tr>
 </table>
+
 
 Create content & metadata
 ------
